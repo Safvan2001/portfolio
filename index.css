@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Blaka+Ink&family=Dancing+Script&family=Passions+Conflict&family=Reem+Kufi+Ink&family=Rubik+Dirt&display=swap');
+
+
+.center{
+    
+    
+    padding: 6% 6% 6% 0%;
+}
+
+.b-1{
+    background-image: url(images/wp9225784.jpg);
+    background-size: contain;
+}
+body{
+    background-color:  cadetblue;
+    
+}
+@media(max-width:1000px)
+{
+    .img-1{
+        margin-left: 15%;
+        height: 30px;
+    }
+   
+    
+
+}
